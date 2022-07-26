@@ -26,11 +26,19 @@
   </a>
   &emsp;
 
-
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  
+  
 <Br>
 <hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
+  My e-mail, if you might have need it: efflorescedFlower@gmail.com
 <Br>
 
 ------
