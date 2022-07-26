@@ -35,9 +35,6 @@
   
   
 <Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
   My e-mail, if you might have need it: efflorescedFlower@gmail.com
 <Br>
 
