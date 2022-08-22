@@ -8,7 +8,7 @@
 
 - 🏫: I'm a grade 11, High School Student.
 - 🔭: I’m currently working on newbie Minecraft project.
-- 🌱: I’m currently learning Java, SOLID, JUnit, Spring, and Spigot API.
+- 🌱: I’m currently learning Java, Kotlin, JUnit, Spring, SQL, JDBC, and Spigot API.
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 😄  Pronouns: He/His
 
@@ -16,13 +16,12 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
+<p align="left">
+  &emsp;
+    <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
-  <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
@@ -40,4 +39,4 @@
 ------
 
 Credit: [effIoresce](https://github.com/effIoresce)
-Last Edited on: 26/07/2022
+Last Edited on: 22/08/2022
