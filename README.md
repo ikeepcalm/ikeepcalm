@@ -2,36 +2,52 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://t.me/ikeepcalm">Bohdan Horokh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://t.me/ikeepcalm">Bohdan Horokh<a><img src="https://github.com/ikeepcalm/ikeepcalm/blob/505ba69aed2c82b03e2384fdfee9ef8731e9ff36/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me.</h1>
 
-- 🏫: I'm a grade 11, High School Student.
-- 🌱: I’m currently learning Docker, Spring Security, Telegram API and more!
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 🏫: I'm a High School graduate, having plans to enter a CS major at University.
+- 🌱: I’m currently learning Docker, Spring MVC, Vaadin, and more!
+- 🤔: I'm eager to update the lines above as soon as I master certain skills! 😅
+- 📎: I'm developing my own projects, you can check the progress in the repositories section!
 - 😄  Pronouns: He/Him
 
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages and frameworks
-<p align="left">
-     &emsp;  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-     <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-VC-blue"></a> <br>
-     &emsp;  <a href="https://spring.io" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-Framework-brightgreen"></a>  <br>
-     &emsp;  <a href="https://restfulapi.net/" target="_blank"><img alt="REST" src="https://img.shields.io/badge/REST-API-red"></a>
-     <a href="https://junit.org/junit5/" target="_blank"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-5-brightgreen"></a> <br>
-     &emsp;  <a href="https://projectlombok.org/" target="_blank"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-%20-green"></a> <br>
-
+### 👉 Core
+  
+![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  
+### 👉 Tools & Libraries
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  
+### 👉 Spring
+  
+![Spring Core](https://img.shields.io/badge/Spring%20Core-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
+### 👉 IDE & Environment Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   
-<Br>
+### 👉 Version Control Systems
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+
+  
 <Br>  
   My e-mail, if you might have need it: horokhbohdandmytrovich@gmail.com
 <Br>
