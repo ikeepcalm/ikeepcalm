@@ -16,9 +16,7 @@
 - 😄  Pronouns: He/Him. Age: 18 y.o.
 
 ## 📊 Activity summary
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/ikeepcalm?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</p>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikeepcalm&bg_color=d2d6fb&color=8527c2&line=12d893&point=036f7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 Longest streak
 
