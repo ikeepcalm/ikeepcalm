@@ -12,7 +12,7 @@
 - 🌱: I’m currently learning Docker, JavaFX, GraalVM; feel enthusiastic about Minecraft development and Astro web framework.
 - 🤔: I'm eager to update the lines above as soon as I master certain skills! Or if I find new technologies I like 😅
 - 📎: I'm developing my own projects, you can check the progress in the repositories section!
-- 😄  Pronouns: He/Him. Age: 18 y.o.
+- 😄  Pronouns: He/Him. Age: 19 y.o.
 
 ## 🎆 Cool activity charts
 
