@@ -33,7 +33,6 @@
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Framework-Expert-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 ### Minecraft Development
 ![Paper](https://img.shields.io/badge/Paper_API-Expert-00758F?style=flat-square&logo=minecraft&logoColor=white)
