@@ -69,10 +69,6 @@
 </tr>
 </table>
 
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikeepcalm&theme=react&hide_border=true)
-
 </div>
 
 ---
