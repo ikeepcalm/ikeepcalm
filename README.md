@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<hr>
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #6366f1, #4ecdc4, #ff6b6b);" />
+
 <h1 align="center">I'm <a href="https://t.me/ikeepcalm">Bohdan Horokh<a><img src="https://github.com/ikeepcalm/ikeepcalm/blob/505ba69aed2c82b03e2384fdfee9ef8731e9ff36/wave.gif" width="60px"/></h1>
-<Br>
 
 <div align="center">
 
@@ -15,35 +16,43 @@
 
 </div>
 
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
 ## 🚀 About Me
 
-🎓 **CS Student** at National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"  
+- 🎓 **CS Student** at KPI (Kyiv Polytechnic Institute), currently studying abroad at “The Lower Danube” University in Galați, Romania.
+- 💻 Focused on **Java, Spring, and distributed systems.**
+- 🌐 Interested in scalable architectures, backend development, and **Minecraft** plugin ecosystems.
 
-🌍 **Currently in** Galați, Romania - pursuing IT at "The Lower Danube" University  
-
-💻 **Passionate about** Java Spring Framework, distributed systems, and innovative server architecture  
-
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #6366f1, #4ecdc4, #ff6b6b);" />
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
 
 ### Backend Development
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Framework-Expert-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-Proficient-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Independent-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Minecraft Development
-![Paper](https://img.shields.io/badge/Paper_API-Expert-00758F?style=flat-square&logo=minecraft&logoColor=white)
-![Velocity](https://img.shields.io/badge/Velocity-Advanced-FF6B6B?style=flat-square&logo=minecraft&logoColor=white)
-![Plugins](https://img.shields.io/badge/Plugin_Development-Expert-4ECDC4?style=flat-square&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper_API-Proficient-00758F?style=flat-square&logo=minecraft&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-Independent-FF6B6B?style=flat-square&logo=minecraft&logoColor=white)
+![Plugins](https://img.shields.io/badge/Plugin_Development-Mastery-4ECDC4?style=flat-square&logo=minecraft&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Independent-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Independent-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-Advanced-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -52,42 +61,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<table width="100%">
-<tr>
-<td width="48%" align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeepcalm&show_icons=true&theme=react&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ikeepcalm&theme=react&hide_border=true)
 
-</td>
-<td width="4%"></td>
-<td width="48%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeepcalm&layout=compact&theme=react&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔧 **Expanding UAProject ecosystem** with new custom plugins
-- 🌱 **Learning GraalVM** for performance optimization
-- 📚 **Advancing Docker expertise** for better deployment strategies
-- 🚀 **Exploring microservices architecture** for scalability
-
----
-
 ## 🏆 Certifications & Education
 
-- 🎓 **Java Developer** - TestProvider (2023)
-- 🎨 **Design Patterns** - TestProvider (2023) 
-- 🌐 **Networking Essentials** - Cisco Networking Academy (2024)
-- 🤖 **Elements of AI** - University of Helsinki (2025)
+- 🎓 **Java Developer** — TestProvider (2023)
+- 💡 **Design Patterns** — TestProvider (2023)
+- 🌐 **Networking Essentials** — [Cisco Networking Academy](https://www.netacad.com/) (2024)
+- 🤖 **Elements of AI** — [University of Helsinki](https://www.elementsofai.com/) (2025)
 
 ---
 
@@ -127,4 +116,4 @@ Looking for collaboration on exciting Java projects or distributed systems? Let'
 
 ------
 
-Last Edited on: 14/06/2025
+Last Edited on: 26/10/2025
