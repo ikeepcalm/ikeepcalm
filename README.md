@@ -63,7 +63,7 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeepcalm&show_icons=true&theme=react&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ikeepcalm&theme=react&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikeepcaIm&theme=nightowl)](https://git.io/streak-stats)
 
 </div>
 
