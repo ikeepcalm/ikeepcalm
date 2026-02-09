@@ -62,8 +62,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeepcalm&show_icons=true&theme=react&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ikeepcaIm&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikeepcalm&theme=tokyonight&border_radius=4.1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,4 +115,4 @@ Looking for collaboration on exciting Java projects or distributed systems? Let'
 
 ------
 
-Last Edited on: 26/10/2025
+Last Edited on: 2/9/2026
